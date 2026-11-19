@@ -9,11 +9,30 @@ UI/UX designer who also writes the code, based in Germany.
 - Right now I'm deepening my skills in Angular and TypeScript
 
 ## Tech Stack
-- **Frontend:** HTML, CSS, SCSS, JavaScript, TypeScript, Angular
-- **Design:** Figma, Photoshop, Illustrator, InDesign
-- **E-Commerce:** Shopware
-- **Project Management:** Jira, Confluence, Scrum
-- **Tools:** Git, GitHub, VS Code
+**Frontend**
+![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-000000?style=flat-square&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=white)
+
+**Design**
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=flat-square&logo=adobeillustrator&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-000000?style=flat-square&logo=adobeindesign&logoColor=white)
+
+**E-Commerce & Project Management**
+![Shopware](https://img.shields.io/badge/Shopware-000000?style=flat-square&logo=shopware&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-000000?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-000000?style=flat-square&logo=confluence&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-000000?style=flat-square)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ## Let's Connect
 I'm always happy to talk about design, code or a new project.
