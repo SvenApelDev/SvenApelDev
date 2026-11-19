@@ -18,4 +18,4 @@ UI/UX designer who also writes the code, based in Germany.
 ## Let's Connect
 I'm always happy to talk about design, code or a new project.
 
-📫 [DEINE@ADRESSE.de](mailto:svenapel@web.de)
+📫 (mailto:svenapel@web.de)
