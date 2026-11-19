@@ -17,11 +17,15 @@ UI/UX designer who also writes the code, based in Germany.
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=white)
 
+**Backend**
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white)
+
 **Design**
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=flat-square&logo=adobeillustrator&logoColor=white)
-![InDesign](https://img.shields.io/badge/InDesign-000000?style=flat-square&logo=adobeindesign&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=flat-square)
+![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=flat-square)
+![InDesign](https://img.shields.io/badge/InDesign-000000?style=flat-square)
+![Material Design](https://img.shields.io/badge/Material%20Design-000000?style=flat-square&logo=materialdesign&logoColor=white)
 
 **E-Commerce & Project Management**
 ![Shopware](https://img.shields.io/badge/Shopware-000000?style=flat-square&logo=shopware&logoColor=white)
